@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 - 🎓 I'm currently studying Computer Science at UFF
 - 🔭 I’m currently working as a software developer
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning React.js, Next.js and Typescript
 - 📫 How to reach me: defreitasferreira.mariana@gmail.com
 - ⚡ Fun fact: I love volleyball and music!
