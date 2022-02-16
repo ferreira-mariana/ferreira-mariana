@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🎓 I'm currently studying Computer Science at UFF
-- 🔭 I’m currently working as a software developer
-- 🌱 I’m currently learning React.js, Next.js and Typescript
+- 🎓 Graduated in Computer Science at Universidade Federal Fluminense (UFF)
+- 🔭 Working as a software developer
+- 🌱 Learning React.js, Next.js and Typescript
 - 📫 How to reach me: defreitasferreira.mariana@gmail.com
 - ⚡ Fun fact: I love volleyball and music!
