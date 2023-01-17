@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 - 🎓 Graduated in Computer Science at Universidade Federal Fluminense (UFF)
 - 🔭 Working as a software developer
-- 🌱 Learning React.js, Next.js and Typescript
+- 🌱 Learning Vue.js, Typescript and Unit testing
 - 📫 How to reach me: defreitasferreira.mariana@gmail.com
 - ⚡ Fun fact: I love volleyball and music!
