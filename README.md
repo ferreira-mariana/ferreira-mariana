@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🎓 Graduated in Computer Science at Universidade Federal Fluminense (UFF)
-- 🔭 Working as a software developer
-- 🌱 Learning Vue.js, Typescript and Unit testing
+- 🎓 B.Sc. in Computer Science at Federal Fluminense University (UFF)
+- 🔭 I’m currently working as a software engineer with Vue.js, Typescript and Node.js
 - 📫 How to reach me: defreitasferreira.mariana@gmail.com
+- 💬 Feel free to talk to me in English or Portuguese
 - ⚡ Fun fact: I love volleyball and music!
+ 
